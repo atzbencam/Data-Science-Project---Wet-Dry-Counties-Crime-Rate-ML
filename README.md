@@ -1,0 +1,2 @@
+# Data-Science-Project---Wet-Dry-Counties-Crime-Rate-ML
+Optimization, transparency, and matured analysis of crime rates in wet and dry counties in Kansas.  Is there a significant difference of crime rates in counties that prohibit the sale of alcohol? As opposed to wet counties, how do these crimes stack against each other? What variables are of significance and are independently/dependently related? 
